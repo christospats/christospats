@@ -117,4 +117,4 @@ When I'm not coding, you can find me:
 
 ---
 
-⭐️ From [christospats](https://github.com/christospats) | *"Bridging technology and finance, one line of code at a time"*
+⭐️ From [christospats](https://github.com/christospats)
