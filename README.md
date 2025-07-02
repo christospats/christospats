@@ -10,29 +10,15 @@ I'm a **Bachelor's degree graduate in Applied Informatics** from the University 
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- **Java** - Intermediate
-- **JavaScript** - Advanced
-- **Python** - Advanced
-- **C/C++** - Intermediate
-- **PHP** - Intermediate
-- **HTML/CSS** - Advanced
-
-### Frameworks & Libraries
-- **React.js** - Advanced
-- **React Native** - Basic
-- **Next.js** - Basic
-- **RASA Framework** - Intermediate
-- **Tkinter** - Intermediate
-
-### Tools & Technologies
-- **Android Studio** - Java Development
-- **Git/GitKraken** - Version Control
-- **Linux/Windows** - Operating Systems
-- **MS Office/Libre Office** - Productivity
-- **WordPress/Blogger** - Content Creation
-- **KiCad** - Circuit Design
-- **TinkerCAD** - 3D Modeling
+| **Programming Languages** | **Frameworks & Libraries** | **Tools & Technologies**         |
+|---------------------------|----------------------------|----------------------------------|
+| Java - Intermediate       | React.js - Advanced        | Android Studio - Java Development |
+| JavaScript - Advanced     | React Native - Basic       | Git/GitKraken - Version Control  |
+| Python - Advanced         | Next.js - Basic            | Linux/Windows - Operating Systems |
+| C/C++ - Intermediate      | RASA Framework - Intermediate | MS Office/Libre Office - Productivity |
+| PHP - Intermediate        | Tkinter - Intermediate     | WordPress/Blogger - Content Creation |
+| HTML/CSS - Advanced       |                            | KiCad - Circuit Design           |
+|                           |                            | TinkerCAD - 3D Modeling          |
 
 ## 🚀 Featured Projects
 
