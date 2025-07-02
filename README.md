@@ -88,13 +88,6 @@ These projects represent my commitment to leveraging technology for social good 
 - **Greek** (Native)
 - **English** (B2 Level - Independent User)
 
-## 🏹 Hobbies & Interests
-
-When I'm not coding, you can find me:
-- 💪 Working out and staying fit
-- 📊 Analyzing financial markets
-- 🔧 Tinkering with hardware projects
-
 ## 📫 Let's Connect!
 
 - **Email:** xristos.patsoyras@gmail.com
