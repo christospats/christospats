@@ -1,16 +1,121 @@
-## Hi there 👋
+# Hi there, I'm Christos-Fanourios Patsouras! 👋
 
-<!--
-**christospats/christospats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+I'm a **Bachelor's degree graduate in Applied Informatics** from the University of Macedonia (PAMAK), passionate about technology, software development, and financial analytics. Based in Thessaloniki, Greece, I specialize in building robust applications and exploring the intersection of technology and finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on **Technical Analysis tools** and **RASA ChatBot development**
+- 🌱 I'm learning advanced **React Native**, **Next.js**, and **ML models**
+- 📫 How to reach me: **xristos.patsoyras@gmail.com**
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- **Java** - Intermediate
+- **JavaScript** - Advanced
+- **Python** - Advanced
+- **C/C++** - Intermediate
+- **PHP** - Intermediate
+- **HTML/CSS** - Advanced
+
+### Frameworks & Libraries
+- **React.js** - Advanced
+- **React Native** - Basic
+- **Next.js** - Basic
+- **RASA Framework** - Intermediate
+- **Tkinter** - Intermediate
+
+### Tools & Technologies
+- **Android Studio** - Java Development
+- **Git/GitKraken** - Version Control
+- **Linux/Windows** - Operating Systems
+- **MS Office/Libre Office** - Productivity
+- **WordPress/Blogger** - Content Creation
+- **KiCad** - Circuit Design
+- **TinkerCAD** - 3D Modeling
+
+## 🚀 Featured Projects
+
+### 🤖 [RASA ChatBot](https://github.com/christospats)
+*March 2024 - Present*
+- Developed an intelligent chatbot using the RASA framework
+- Provides information about Electronic Computer Engineer licensing services
+- **Tech Stack:** Python, RASA, HTML, CSS, JavaScript
+- Features custom actions and natural language understanding
+
+### 📈 [Technical Analysis Tool](https://github.com/christospats/Python/tree/main/Technical_Analysis)
+*April 2024 - Present*
+- Financial analysis application providing buy/sell signals based on technical indicators
+- Processes user-provided CSV data for market analysis
+- **Tech Stack:** Python, Tkinter
+- **Future Plans:** Portfolio optimization, stock price prediction, NLP financial assistant
+
+### 📱 [MyUoM Student App](https://my.uom.gr)
+*July 2022 - September 2022*
+- University of Macedonia's official student application
+- Comprehensive tool supporting daily student needs
+- **Tech Stack:** React.js, Canva
+- Part of PAMAK's open-source software team
+
+### 🏥 [PhysioHut](https://github.com/orgs/Lab-eurs/repositories)
+- Android application for physical therapy clinic appointment management
+- Streamlined scheduling, viewing, and cancellation of appointments
+- **Tech Stack:** Java, Android Studio
+
+## 💼 Professional Experience
+
+**IT Field Engineer** | *Space Hellas* | *Thessaloniki, Greece*
+- Summer positions (2020-2022)
+- IT Support & System Maintenance
+- Customer Support & CMS/ERP Systems Management
+
+## 🎯 Areas of Expertise
+
+- **Business Analysis & Information Systems**
+- **Database Design & Management**
+- **Web Services Development**
+- **Financial Analysis & Technical Trading**
+- **Mobile Application Development**
+- **Hardware & Software Technical Skills**
+
+## 📊 Current Focus
+
+I'm currently working on cutting-edge AI research projects that bridge technology and democratic governance:
+
+### 🏛️ AI4Deliberation Project - CERTH (EKETA)
+Contributing to an innovative project that develops **robust and ethical AI tools** to support governments in implementing large-scale deliberative processes. The project focuses on:
+- Creating AI-enabled deliberative practices and frameworks
+- Developing multimodal, gamified mass deliberation systems
+- Establishing practical guidelines for transparent and inclusive democratic participation
+- Building comprehensive AI toolkits for government implementation and evaluation
+
+### 🎓 Research Collaboration - University of Macedonia
+Supporting research initiatives in the intersection of AI and digital governance, specifically exploring:
+- **E-Government** systems and digital public services
+- **E-Participation** platforms for citizen engagement
+- **E-Democracy** tools and democratic innovation
+- Applications of **AI, Machine Learning, and Large Language Models** in public sector transformation
+
+These projects represent my commitment to leveraging technology for social good and democratic enhancement.
+
+## 🌐 Languages
+
+- **Greek** (Native)
+- **English** (B2 Level - Independent User)
+
+## 🏹 Hobbies & Interests
+
+When I'm not coding, you can find me:
+- 💪 Working out and staying fit
+- 📊 Analyzing financial markets
+- 🔧 Tinkering with hardware projects
+
+## 📫 Let's Connect!
+
+- **Email:** xristos.patsoyras@gmail.com
+- **Location:** Thessaloniki, Greece
+- **Phone:** (+30) 6941597566
+
+---
+
+⭐️ From [christospats](https://github.com/christospats) | *"Bridging technology and finance, one line of code at a time"*
