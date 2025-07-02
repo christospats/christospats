@@ -4,7 +4,7 @@
 
 I'm a **Bachelor's degree graduate in Applied Informatics** from the University of Macedonia (PAMAK), passionate about technology, software development, and financial analytics. Based in Thessaloniki, Greece, I specialize in building robust applications and exploring the intersection of technology and finance.
 
-- 🔭 I'm currently working on **Technical Analysis tools** and **RASA ChatBot development**
+- 🔭 I'm currently working on AI4Deliberation project and contributing to research on e-government.
 - 🌱 I'm learning advanced **React Native**, **Next.js**, and **ML models**
 - 📫 How to reach me: **xristos.patsoyras@gmail.com**
 
