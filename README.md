@@ -18,7 +18,7 @@ I'm a **Bachelor's degree graduate in Applied Informatics** from the University 
 | C/C++ - Intermediate      | RASA Framework - Intermediate | MS Office/Libre Office - Productivity |
 | PHP - Intermediate        | Tkinter - Intermediate     | WordPress/Blogger - Content Creation |
 | HTML/CSS - Advanced       |                            | KiCad - Circuit Design           |
-|                           |                            | TinkerCAD - 3D Modeling          |
+| SQL - Advanced            |                            | TinkerCAD - 3D Modeling          |
 
 ## 🚀 Featured Projects
 
