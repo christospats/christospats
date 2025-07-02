@@ -74,7 +74,6 @@ I'm a **Bachelor's degree graduate in Applied Informatics** from the University 
 - **Business Analysis & Information Systems**
 - **Database Design & Management**
 - **Web Services Development**
-- **Financial Analysis & Technical Trading**
 - **Mobile Application Development**
 - **Hardware & Software Technical Skills**
 
