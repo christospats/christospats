@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a **Bachelor's degree graduate in Applied Informatics** from the University of Macedonia (PAMAK), passionate about technology, software development, and financial analytics. Based in Thessaloniki, Greece, I specialize in building robust applications and exploring the intersection of technology and finance.
+I'm a **Bachelor's degree graduate in Applied Informatics** from the University of Macedonia (PAMAK), passionate about technology, software development, and financial analytics. Based in Thessaloniki, Greece, I specialize in building robust applications and exploring the intersection of technology and e-government.
 
 - 🔭 I'm currently working on AI4Deliberation project and contributing to research on e-government.
 - 🌱 I'm learning advanced **React Native**, **Next.js**, and **ML models**
